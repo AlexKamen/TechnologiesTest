@@ -1,4 +1,5 @@
-rootProject.name = 'demo'
+rootProject.name = 'TechnologiesTest'
 include 'calculator'
 include 'validator'
+include 'core'
 
